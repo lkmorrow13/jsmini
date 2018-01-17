@@ -1,0 +1,2 @@
+# jsmini
+JavaScript Mini Challenges
